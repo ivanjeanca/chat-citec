@@ -1,0 +1,22 @@
+comandos 
+
+para ver lo que tiene el archivo
+node .\index.js
+node index
+
+para instalar la paqueteria express
+npm install express --save
+npm i express --S
+
+instala todas las dependencias declaradas en el package
+npm install
+
+para instalar la paqueteria socket.io
+npm i socket.io --S
+
+para instalar nodemon para no estar apagando y prendiendo els ervidor a cada drato
+npm i nodemon -S
+
+para iniciar con nodemon
+npm start
+

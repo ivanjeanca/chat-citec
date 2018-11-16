@@ -1,0 +1,16 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Mi primer chat en tiempo real",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Iván Jeancarlo Tirado Morales",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.6",
+    "socket.io": "^2.1.1"
+  }
+}
